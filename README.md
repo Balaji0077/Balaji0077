@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Balaji0077
-- 🌱 I’m currently learning ...core java
+
 
 - 📫 How to reach me ...balajisugur@gmail.com
 
