@@ -1,5 +1,5 @@
--<p>$whoami</p>
-- 👋 Hi, I’m @Balaji0077
+<p>$whoami</p>
+<h1>👋 Hi, I’m Balaji</h1>
 
 
 - 📫 How to reach me ...balajisugur@gmail.com
