@@ -1,4 +1,4 @@
-<div style="background-color:#000000">
+<div style="background-color:#000000;color:white">
 <h1>👋 Hi, I’m Balaji</h1>
 
 
