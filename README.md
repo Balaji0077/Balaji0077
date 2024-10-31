@@ -1,4 +1,4 @@
-<p>$whoami</p>
+
 <h1>👋 Hi, I’m Balaji</h1>
 
 
